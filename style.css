@@ -1,0 +1,10 @@
+:root {
+    --color-charcoal: #37505C;
+    --color-spring-green: #0CF574;
+    --color-celestial-blue: #20A4F3;
+    --color-magnolia: #ECE5F0;
+}
+
+body {
+    background-color: var(--color-charcoal);
+}
